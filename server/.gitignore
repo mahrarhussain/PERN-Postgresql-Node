@@ -81,18 +81,3 @@ src/uploads/*
 
 yarn.lock
 package-lock.json
-
-
-# Elastic Beanstalk Files
-# .elasticbeanstalk/*
-# !.elasticbeanstalk/*.cfg.yml
-# !.elasticbeanstalk/*.global.yml
-
-
-
-
-# dotenv environment variables file
-.env
-.env.staging
-.env.development
-.env.production
